@@ -94,7 +94,7 @@
 
 ## Не читать дальше
 
-http://ilyabirman.ru/meanwhile/all/responsive/
+* http://ilyabirman.ru/meanwhile/all/responsive/
 
 
 
