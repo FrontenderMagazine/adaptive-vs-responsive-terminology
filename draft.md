@@ -95,12 +95,7 @@
 
 ## Не читать дальше
 
-<<<<<<< HEAD
-* http://ilyabirman.ru/meanwhile/all/responsive/
-
-=======
 * [http://ilyabirman.ru/meanwhile/all/responsive/](http://ilyabirman.ru/meanwhile/all/responsive/)
->>>>>>> Language style changes. Thanks to @SpadarShut
 
 
 
